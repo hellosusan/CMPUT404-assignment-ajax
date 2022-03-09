@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Copyright 2022 Susan Trang
 # Copyright 2013 Abram Hindle
 # 
 # Licensed under the Apache License, Version 2.0 (the "License");
