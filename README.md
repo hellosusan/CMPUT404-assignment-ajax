@@ -11,5 +11,9 @@ Contributors / Licensing
 ========================
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
+Susan Trang
 
+Cite
+========================
+https://stackoverflow.com/a/46870814/16791657
 
